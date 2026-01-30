@@ -21,6 +21,10 @@ jobs:
     strategy:
       matrix:
         include:
+          - device-id: blazer # Pixel 10 Pro
+            magisk-preinit-device: metadata
+          - device-id: mustang # Pixel 10 Pro XL
+            magisk-preinit-device: sda10
           - device-id: tegu # Pixel 9a
             magisk-preinit-device: sda10
           
