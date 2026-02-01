@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rtm617827/ota/releases/download/2026012101/mustang-2026012101-f05a9dd-rootless.zip",
-    "location_csig": "https://github.com/rtm617827/ota/releases/download/2026012101/mustang-2026012101-f05a9dd-rootless.zip.csig"
+    "location_ota": "https://github.com/rtm617827/ota/releases/download/2026012801/mustang-2026012801-f05a9dd-rootless.zip",
+    "location_csig": "https://github.com/rtm617827/ota/releases/download/2026012801/mustang-2026012801-f05a9dd-rootless.zip.csig"
   }
 }
