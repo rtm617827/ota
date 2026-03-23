@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/rtm617827/ota/releases/download/2026030701/blazer-2026030701-496633f-rootless.zip",
-    "location_csig": "https://github.com/rtm617827/ota/releases/download/2026030701/blazer-2026030701-496633f-rootless.zip.csig"
+    "location_ota": "https://github.com/rtm617827/ota/releases/download/2026032001/blazer-2026032001-12daeeb-rootless.zip",
+    "location_csig": "https://github.com/rtm617827/ota/releases/download/2026032001/blazer-2026032001-12daeeb-rootless.zip.csig"
   }
 }
